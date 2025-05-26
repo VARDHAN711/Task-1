@@ -32,6 +32,7 @@ header .container {
     font-size: 24px;
     font-weight: bold;
     background: linear-gradient(45deg, #ff6b6b, #ffcc33);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
